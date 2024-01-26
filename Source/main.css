@@ -90,7 +90,7 @@ body{
     opacity: 100%;
     transition: 0.5s;
 }
-.wrap-cover a:active{
+.wrap-cover a:hover{
     opacity: 0;
     transition: 0.5s;
 }
